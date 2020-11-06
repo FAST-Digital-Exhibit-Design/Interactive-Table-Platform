@@ -1,1 +1,1 @@
-# Interactive-Table-Platform
+# Interactive Table Platform
